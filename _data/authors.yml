@@ -1,13 +1,13 @@
 # Sample Authors
 # Remove file or replace with your own
 
-Billy Rick:
-  name: Billy Rick
-  picture: /images/bio-photo-2.jpg
-  twitter: "@billyrick"
+Shubham Sanghavi:
+  name: Shubham Sanghavi
+  picture: /images/Capture_01.PNG
+  twitter: tradest3
   links:
     - title: Twitter
-      url: https://twitter.com/billyrick
+      url: https://twitter.com/tradest3
       icon: fab fa-twitter-square
 
 Cornelius Fiddlebone:
