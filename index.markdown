@@ -9,7 +9,8 @@ layout: page
 
 Howdy!
 
-I am an experienced software engineer who has worked and thrived in various domains. The meta-skills that has helped me are grit, coachability, curiosity and ability to assimilate information quickly.
+I am an experienced software engineer who has worked and thrived in various domains. The meta-skills that have helped me are grit, coachability, curiosity and ability to assimilate information quickly.
 
 Currently, I am in the last semester of my Master's in Computer Science at Texas A&M University and working actively in the fields of Machine Learning, Deep Learning and Artificial Intelligence.
 
+I like to build stuff, get things done and work with great people!
